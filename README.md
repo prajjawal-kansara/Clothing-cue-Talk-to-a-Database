@@ -10,6 +10,8 @@ will may ask questions such as,
 - How much sales our store will generate if we can sell all extra-small size t shirts after applying discounts?
 The system is intelligent enough to generate accurate queries for given question and execute them on MySQL database.
 
+![clothing_cue](https://github.com/user-attachments/assets/fe63cf78-6fd1-4dc1-9b9b-3fdc1b3189c9)
+
 
 ## Project Highlights
 
