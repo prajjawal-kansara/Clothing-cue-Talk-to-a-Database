@@ -10,7 +10,7 @@ will may ask questions such as,
 - How much sales our store will generate if we can sell all extra-small size t shirts after applying discounts?
 The system is intelligent enough to generate accurate queries for given question and execute them on MySQL database
 
-![](atliq_tees.png)
+![](clothing_cue.png)
 
 ## Project Highlights
 
