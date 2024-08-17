@@ -8,9 +8,8 @@ Clothing Cue is a T-shirt store where they maintain their inventory, sales and d
 will may ask questions such as,
 - How many white color Adidas t shirts do we have left in the stock?
 - How much sales our store will generate if we can sell all extra-small size t shirts after applying discounts?
-The system is intelligent enough to generate accurate queries for given question and execute them on MySQL database
+The system is intelligent enough to generate accurate queries for given question and execute them on MySQL database.
 
-![](clothing_cue.png)
 
 ## Project Highlights
 
