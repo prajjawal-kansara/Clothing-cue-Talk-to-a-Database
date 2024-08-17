@@ -1,7 +1,8 @@
 
 # Clothing Cue: Talk to a Database  
 
-This is an end to end LLM project based on Google Palm and Langchain. We are building a system that can talk to MySQL database. 
+This is an end to end LLM project based on Google Palm and Langchain that enables natural language interactions with a MySQL database for a T-shirt store.
+This system allows store managers to query inventory, sales, and discount data using everyday language.
 User asks questions in a natural language and the system generates answers by converting those questions to an SQL query and
 then executing that query on MySQL database. 
 Clothing Cue is a T-shirt store where they maintain their inventory, sales and discounts data in MySQL database. A store manager 
@@ -12,19 +13,20 @@ The system is intelligent enough to generate accurate queries for given question
 
 ![clothing_cue](https://github.com/user-attachments/assets/fe63cf78-6fd1-4dc1-9b9b-3fdc1b3189c9)
 
+## Key Features
+- Natural Language Processing: Converts user questions into SQL queries
+- Intelligent Query Generation: Accurately interprets complex questions about inventory and sales
+- Real-time Database Interaction: Executes queries on MySQL database and returns results
+- User-friendly Interface: Streamlit-based UI for easy interaction
 
-## Project Highlights
-
-- Clothing Cue is a t shirt store that sells Adidas, Nike, Van Heusen and Levi's t shirts 
-- Their inventory, sales and discounts data is stored in a MySQL database
-- I build an LLM based question and answer system that will use following,
-  - Google Palm LLM
-  - Hugging face embeddings
-  - Streamlit for UI
-  - Langchain framework
-  - Chromadb as a vector store
-  - Few shot learning
-- In the UI, store manager will ask questions in a natural language and it will produce the answers
+## Technology Stack
+  - LLM: Google Palm
+  - Embedding: Hugging Face
+  - Frontend: Streamlit
+  - Framework: Langchain
+  - Vector Store: Chromadb
+  - Machine Learning Technique: Few-shot learning
+  - Database: MySQL
 
 
 ## Installation
